@@ -1,4 +1,4 @@
-Skills: HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | PL/SQL | Oracle | PostgreSQL.
-Studying: Node.js.
+Skills: HTML5 | CSS3 | JavaScript (ES6+) | React.jsS | Node.js | Oracle | PostgreSQL | MongoDB | PL/SQL
+
 I'm Frontend lover.
  

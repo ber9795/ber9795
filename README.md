@@ -1,4 +1,4 @@
-Skills: HTML5 | CSS3 | JavaScript (ES6+) | React.jsS | Next.js |  Node.js | PL/SQL | Oracle | PostgreSQL 
+Skills: <b> HTML5 | CSS3 | JavaScript (ES6+) | React.jsS | Next.js |  Node.js | PL/SQL | Oracle | PostgreSQL </b>
 
 I'm a Frontend lover! 
 <br>

@@ -2,4 +2,8 @@ Skills: HTML5 | CSS3 | JavaScript (ES6+) | React.jsS | Node.js | Oracle | Postgr
 
 I'm a Frontend lover.
 You can find me here:
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<br>
+  <a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/bernardoacevedo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </a>

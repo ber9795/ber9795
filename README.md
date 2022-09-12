@@ -1,6 +1,6 @@
 <b> HTML5 | CSS3 | JavaScript (ES6+) | React.jsS | Next.js |  Node.js | PHP | PL/SQL | Oracle | PostgreSQL | MySQL </b>
 
-Hello! I'm a web developer, and I love to coding...
+Hello! I'm a web developer and I love to coding...
 <br>
 You can find me here:
 <br>

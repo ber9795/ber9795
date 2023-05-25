@@ -1,4 +1,4 @@
-<b> HTML5 | CSS3 | JavaScript (ES6+) | React.jsS | Next.js |  Node.js | PHP | PL/SQL | Oracle | PostgreSQL | MySQL | MongoDB </b>
+<b> HTML5 | CSS3 | JavaScript (ES6+) | React.jsS | Next.js |  Node.js | PL/SQL | Oracle | PostgreSQL | MySQL | MongoDB </b>
 
 
 <br>
